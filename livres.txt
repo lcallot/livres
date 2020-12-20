@@ -162,8 +162,8 @@
 02/2020; Thomas S. Burns; Barbarians Within the Gates of Rome (audio)
 03/2020; Bart D. Ehrman; How Jesus Became God (audio)
 04/2020; James Waterson; Defending heaven (audio)
-06/2020; Shirley Glass; NOT "Just Friends": Rebuilding Trust and Recovering Your Sanity After Infidelity
-06/2020; Steven Stosny; Living and Loving after Betrayal: How to Heal from Emotional Abuse, Deceit, Infidelity, and Chronic Resentment 
+06/2020; Shirley Glass; NOT "Just Friends"
+06/2020; Steven Stosny; Living and Loving after Betrayal
 06/2020; John Folk-Williams; Surviving Depression Together
 07/2020; Christina Thompson; Sea People (audio)
 08/2020; Barry Cunliffe; The Scythians (audio)
@@ -173,5 +173,8 @@
 12/2020; John Julius Norwich; France: A Short History (audio)
 12/2020; Jordan Peterson; 12 rules for Life (audio)
 12/2020; David Abulafia; The Great Sea: A Human History of the Mediterranean (audio) 
+12/2020; William R Nester; The French and Indian War (audio)
+12/2020; James Clear; Atomic Habits (audio)
+
 
 
