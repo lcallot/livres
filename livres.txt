@@ -302,28 +302,33 @@
 10/2024; Duane W. Roller; Empire of the Black Sea; audio
 10/2024; Pierre Lemaitre; Couleurs de l'incendi; audio
 11/2024; Pierre Lemaitre; Miroir de Nos Peines; audio
-11/2024; By Steppe, Desert, and Ocean; Barry Cunlife; audio
-11/2024; Les Dieux Ont Soif; Anatole France
-12/2024; Storm of Steel; Ernst Junger
-12/2024; The Silmarillion; J.R.R Tolkien; audio
-12/2024; The First Kingdom; Max Adams; audio
-01/2025; Ancestral Journeys; Jean Manco; audio
-01/2025; Iron and Blood; Peter H. Wilson; audio
-02/2025; Le Silence et la Colère; Pierre Lemaitre; audio
-02/2025; Hillbilly Elegy; J.D. Vance; audio
-02/2025; Chip War; Christ Miller; audio
-03/2025; Spice; Roger Crowley; audio
-03/2025; Things Hidden Since the Foundation of the World; René Girard; audio
-04/2025; Mediterranée; Fernand Braudel
-04/2025; Boule de Foudre; Cixin Liu
-05/2025; Le Maître d'Escrime; Arturo Perez Reverte
-06/2025; La bête humaine; Émile Zola; audio
-06/2025; Fall of Civilizations; Paul Cooper; audio
-06/2025; Dune Messiah; Frank Herbert
-07/2025; Le Camp des Saints; Jean Raspail; audio
-07/2025; The Marriage of Cadmus and Harmony; Roberto Calasso
-08/2025; Violence and the Sacred; René Girard; audio
-08/2025; The Lives of the Caesars; Suetonius; audio 
-08/2025; Spies for the Sultan: Ottoman Intelligence in the Great Rivalry with Spain; Emrah Safa Gürkan 
-08/2025; Jamilia; Chingiz Aitmatov 
-09/2025; The Decameron; Giovanni Boccaccio; audio
+11/2024; Barry Cunlife; By Steppe, Desert, and Ocean; audio
+11/2024; Anatole France; Les Dieux Ont Soif
+12/2024; Ernst Junger; Storm of Steel
+12/2024; J.R.R Tolkien; The Silmarillion; audio
+12/2024; Max Adams; The First Kingdom; audio
+01/2025; Jean Manco; Ancestral Journeys; audio
+01/2025; Peter H. Wilson; Iron and Blood; audio
+02/2025; Pierre Lemaitre; Le Silence et la Colère; audio
+02/2025; J.D. Vance; Hillbilly Elegy; audio
+02/2025; Christ Miller; Chip War; audio
+03/2025; Roger Crowley; Spice; audio
+03/2025; René Girard; Things Hidden Since the Foundation of the World; audio
+04/2025; Fernand Braudel; Mediterranée
+04/2025; Cixin Liu; Boule de Foudre
+05/2025; Arturo Perez Reverte; Le Maître d'Escrime
+06/2025; Émile Zola; La bête humaine; audio
+06/2025; Paul Cooper; Fall of Civilizations; audio
+06/2025; Frank Herbert; Dune Messiah
+07/2025; Jean Raspail; Le Camp des Saints; audio
+07/2025; Roberto Calasso; The Marriage of Cadmus and Harmony
+08/2025; René Girard; Violence and the Sacred; audio
+08/2025; Suetonius; The Lives of the Caesars; audio 
+08/2025; Emrah Safa Gürkan; Spies for the Sultan: Ottoman Intelligence in the Great Rivalry with Spain 
+08/2025; Chingiz Aitmatov; Jamilia 
+09/2025; Giovanni Boccaccio; The Decameron; audio
+10/2025; James S. Romm; Ghosts on the Throne; audio
+01/2026; Elif Shafak; The Architect's Apprentice
+02/2026; Jean-Claude Golvin; Périgrinations dans la Gaule Romaine
+
+
