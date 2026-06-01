@@ -297,7 +297,7 @@
 09/2024; Alistair Horne; A Savage War of Peace; audio
 09/2024; Roberto Calasso; The Book of all Books; audio
 09/2024; Leonie Frieda; Catherine de Medici; audio
-10/2024; Pourquoi l'Empire Ottoma; Olivier Bouquet
+10/2024; Olivier Bouquet; Pourquoi l'Empire Ottoma
 10/2024; Hans-Ulrich Wiemer; Theoderic the Great; audio
 10/2024; Duane W. Roller; Empire of the Black Sea; audio
 10/2024; Pierre Lemaitre; Couleurs de l'incendi; audio
@@ -340,5 +340,11 @@
 04/2026; Julian Jaynes; The Origin of Consciousness in the Breakdown of the Bicameral Mind; audio
 04/2026; Gregory J. Wallance; Into Siberia; audio
 04/2026; Daniel C. Dennett; From Bacteria to Bach and Back; audio
-
-
+05/2026; Gregory J. Wallance; Into Siberia; audio
+05/2026; Guy de la Bedoyere; Populus; audio
+05/2026; Iain McGilchrist; The Master and His Emissary; audio
+05/2026; Kim Bowes; Surviving Rome; audio
+05/2026; Marguerite Yourcenar; Mémoires d'Hadrien; audio
+05/2026; Guzel Yakhina; Zuleikha; audio
+05/2026; Neal Ascherson; Black Sea
+05/2026; Sarah Wynn-Williams; Careless People; audio
